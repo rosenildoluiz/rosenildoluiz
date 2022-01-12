@@ -3,7 +3,7 @@
 
 
 - 🔭 Desenvolvedor Front-End Jr
-- 🌱 Estudando ReactJs, NodeJs
+- 🌱 Estudando ReactJs, NodeJs, Bootstrap
 - 📫 Contate-me no email: Rosenildo11@hotmail.com
 
 <div align="center">
